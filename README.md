@@ -1,1 +1,3 @@
-#My Data Science Journey at Thinkful
+#... And so it begins.
+
+My journey on the path of Data Science.
